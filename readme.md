@@ -15,6 +15,15 @@ all formated data sets are in all_format_0/
   <tr> <th colspan="5">Dataset statistics</th> </tr>
 
 <tr>
+    <td>Dataset</td> 
+    <td>Graphs</td> 
+    <td>Vertices</td>
+    <td>Edges</td>
+    <td>Labels</td> 
+    <td>Max_deg</td>
+</tr>
+
+<tr>
     <td>Human</td> 
     <td>1</td> 
     <td>4674</td>
