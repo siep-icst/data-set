@@ -77,10 +77,10 @@ We need to extract connected graph from raw data
 <tr>
     <td>Email_EU</td> 
     <td>20</td> 
-    <td> </td>
+    <td>1005</td>
     <td>25571</td>
-    <td>Labels</td> 
-    <td>Max_deg</td>
+    <td>41</td> 
+    <td>346</td>
 </tr>
 
 </table>
