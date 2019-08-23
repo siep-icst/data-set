@@ -1,12 +1,8 @@
 import random
 
-
-
-
-
 # get graph info
 # v_num e_num max_v_label
-data_name="email_eu"
+data_name="facebook"
 prev_data_path=data_name+"_new.igraph"
 new_data_path=data_name+"_info.igraph"
 prev_data_file=open(prev_data_path,'r')
@@ -19,7 +15,6 @@ max_v_label=0
 def write_info(_v_num,_e_num,_max_v_label):
     write_str=str(_v_num)+' '+str(_e_num)+' '+str(_max_v_label)+"\n"
     new_data_file.write(write_str)
-
 
 first_line=True
 while True:
