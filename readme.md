@@ -67,7 +67,7 @@ We need to extract connected graph from raw data
 
 <tr>
     <td>Facebook</td> 
-    <td>Graphs</td> 
+    <td>1</td> 
     <td>1034</td>
     <td>25571</td>
     <td>10</td> 
