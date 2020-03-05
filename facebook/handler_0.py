@@ -1,13 +1,16 @@
 import random
 
+## get v_num and max_vid
+# 1034 vertices
+
 data_name="facebook"
 # prev_v_path="email-Eu-core-department-labels.txt"
 prev_e_path="facebook_edges.txt"
-new_data_path=data_name+"_new.igraph"
+# new_data_path=data_name+"_new.igraph"
 # info_data_path=data_name+"_info.igraph"
 # prev_v_file=open(prev_v_path,'r')
 prev_e_file=open(prev_e_path,'r')
-new_data_file=open(new_data_path,'w')
+# new_data_file=open(new_data_path,'w')
 # info_data_file=open(info_data_path,'r')
 
 # new_data_file.write("t # 0\n")
@@ -46,4 +49,4 @@ print("max id: "+str(max_id))
 # new_data_file.write("t # -1\n")
 # prev_v_file.close()
 prev_e_file.close()
-new_data_file.close()
+# new_data_file.close()

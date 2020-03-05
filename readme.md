@@ -69,9 +69,9 @@ We need to extract connected graph from raw data
     <td>Facebook</td> 
     <td>Graphs</td> 
     <td>1034</td>
-    <td>Edges</td>
-    <td>Labels</td> 
-    <td>Max_deg</td>
+    <td>25571</td>
+    <td>10</td> 
+    <td>506</td>
 </tr>
 
 <tr>

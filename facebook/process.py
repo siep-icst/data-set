@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 degree_map={}
-with open("edges",'r') as edge_file:
+with open("facebook_edges.txt",'r') as edge_file:
     while True:
         tmp_line=edge_file.readline()
         if not tmp_line:
@@ -37,6 +37,8 @@ for vertex_id in degree_map:
 
 deg_list=list(degree2cnt.keys())
 deg_list.sort(reverse=True)
+print("degree list:")
+print(deg_list)
 cnt_list=[]
 for tmp_deg in deg_list:
     cnt_list.append(degree2cnt[tmp_deg])
