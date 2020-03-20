@@ -92,4 +92,13 @@ We need to extract connected graph from raw data
     <td>343</td>
 </tr>
 
+<tr>
+    <td>Email_enron</td> 
+    <td>-1</td> 
+    <td>36692</td>
+    <td>367662</td>
+    <td>20</td> 
+    <td>2766</td>
+</tr>
+
 </table>
