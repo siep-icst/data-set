@@ -83,4 +83,13 @@ We need to extract connected graph from raw data
     <td>346</td>
 </tr>
 
+<tr>
+    <td>DBLP</td> 
+    <td>-1</td> 
+    <td>317080</td>
+    <td>1049866</td>
+    <td>20</td> 
+    <td>343</td>
+</tr>
+
 </table>
