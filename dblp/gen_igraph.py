@@ -1,4 +1,4 @@
-v_num=1034
+v_num=317080
 vlabel_path="dblp_vlabel.txt"
 edge_path="dblp_edges.txt"
 

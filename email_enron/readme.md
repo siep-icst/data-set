@@ -9,6 +9,6 @@ The Enron email data was originally released by William Cohen at CMU.
 ### results
 degree distribution, v num, edge num, average degree, labels, max degree
 
-Nodes: 36692 Edges: 367662
+Nodes: 36692 Edges: 183831
 
 max degree: 2766

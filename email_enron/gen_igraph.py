@@ -1,4 +1,4 @@
-v_num=1034
+v_num=36692
 vlabel_path="email_enron_vlabel.txt"
 edge_path="email_enron_edges.txt"
 
@@ -11,7 +11,7 @@ vlabel_file.close()
 for vlabel_line in vlabel_lines:
     vlabel_list.append(int(vlabel_line.split()[0]))
 standard_file.write("t # 0\n")
-standard_file.write("317080 1049866 19\n")
+standard_file.write("36692 183831 19\n")
 for v_id in range(v_num):
     tmp_line="v "+str(v_id)+" "+str(vlabel_list[v_id])+"\n"
     standard_file.write(tmp_line)

@@ -13,7 +13,7 @@ def get_val_by_prob(_val_list,_cum_prob_list):
 def prob_density_func(_x,_alpha=1):
     return math.pow(_x,-_alpha-1)
 
-v_num=317080
+v_num=36692
 label_num=20
 vlabel_path="email_enron_vlabel.txt"
 vlabel_file=open(vlabel_path,"w")
